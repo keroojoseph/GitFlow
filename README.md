@@ -9,7 +9,7 @@
 - This is the main branch where the source code of HEAD always reflects a production-ready state.
 
 **Develop Branch:**
--T his is the main branch where the source code of HEAD always reflects a state with the latest delivered development changes for the next release. It serves as an integration branch for features.
+- This is the main branch where the source code of HEAD always reflects a state with the latest delivered development changes for the next release. It serves as an integration branch for features.
 
 **Feature Branches:**
 - Created from: develop
