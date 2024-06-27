@@ -1,7 +1,11 @@
 # GitFlow
 ***
 ## Concepts of GitFlow
-**Master Branch:**
+<div>
+  <img src="https://github.com/keroojoseph/GitFlow/assets/143596572/a56f6806-8f15-455e-8fae-db555ad6b575">
+</div>
+
+**Master Branch (main):**
 - This is the main branch where the source code of HEAD always reflects a production-ready state.
 
 **Develop Branch:**
